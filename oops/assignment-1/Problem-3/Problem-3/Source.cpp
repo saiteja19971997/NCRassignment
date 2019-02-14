@@ -64,7 +64,7 @@ int main()
 	complex c1(4, 3);
 	complex c2(3, 4);
 	complex c3;
-	c3 = c2.add(c1);//ffg
+	c3 = c2.add(c1);//ffgghfdg
 	c3.display();
 	return 0;
 }
